@@ -1,4 +1,4 @@
-package Java;
+package Java.cw1;
 import java.util.*;
 
 public class cw1 {
